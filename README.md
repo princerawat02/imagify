@@ -2,6 +2,8 @@
 
 **Imagify** is a modern AI-powered platform that allows users to generate high-quality images based on text prompts. By leveraging the **Clipdrop API**, this SaaS tool empowers users to create images easily by simply describing them in text.
 
+You can try **Imagify** live by visiting the demo site: [Imagify Live Demo](https://imagify-frontend-7if9.onrender.com/).
+
 ## Key Features:
 - **Text-to-Image Generation**: Generate images based on simple textual descriptions using AI (via Clipdrop API).
 - **User Authentication**: Implemented secure login and registration using **JWT (JSON Web Tokens)**.
@@ -27,16 +29,9 @@
 - **Vite**: Used for frontend build tool with fast development and hot module reloading.
 - **Nodemon**: Automatically restarts the server during development for smooth workflow.
 
-## Live Demo
-
-You can try **Imagify** live by visiting the demo site: [Imagify Live Demo](https://imagify-frontend-7if9.onrender.com/).
-
 ## What I Learned
 - **API Integration**: Integrated the Clipdrop API for text-to-image generation and learned how to work with third-party APIs.
 - **Authentication**: Gained experience with **JWT** for securing routes and user data.
 - **Frontend Design**: Designed a user-friendly UI using **React** and **TailwindCSS**, focusing on responsive design principles.
 - **Backend Development**: Built a secure backend with **Node.js**, **Express**, and **MongoDB** to manage user authentication and image generation.
 - **Real-Time Feedback**: Implemented **React Toastify** to provide users with instant feedback about their actions.
-
-## Conclusion
-**Imagify** is a project that showcases my ability to integrate various technologies like **React**, **Node.js**, and **Clipdrop API** to build a full-stack application. It demonstrates my skills in **API integration**, **authentication**, **responsive design**, and **real-time user experience**.
